@@ -1,0 +1,19 @@
+{
+  "name": "couchdb-auto-views",
+  "description": "zero-setup views and powerful query composition",
+  "keywords": ["couchdb", "couch"],
+  "version": "0.0.1",
+  "main": "couchdb-auto-views",
+  "dependencies": {
+    "cot": "0.0.6"
+  },
+  "author": {
+    "name": "Will Conant",
+    "email": "will.conant@gmail.com",
+    "url": "http://willconant.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/willconant/couchdb-auto-views"
+  }  
+}
