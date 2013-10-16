@@ -83,7 +83,7 @@ function AutoView(db, key, opts) {
 
     var nameArray = [this.key.join('-')]
     if (this.reduce) {
-        nameArray[1] = this.reduce
+        nameArray[1] = this.reduce.substr(1) // don't include the underscore
     }
     if (this.value) {
         nameArray[2] = this.value
