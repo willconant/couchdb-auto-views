@@ -2,7 +2,7 @@
   "name": "couchdb-auto-views",
   "description": "zero-setup views and powerful query composition",
   "keywords": ["couchdb", "couch"],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "couchdb-auto-views",
   "dependencies": {
     "cot": "0.0.6"
